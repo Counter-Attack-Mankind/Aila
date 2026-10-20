@@ -1,1 +1,1 @@
-"""Aila: a minimal local AI chat companion."""
+"""Aila independent conversational core."""
